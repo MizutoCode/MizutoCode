@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm MizutoCode</h1>
-<h3 align="center">¥</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mizutocode&label=Profile%20views&color=0e75b6&style=flat" alt="mizutocode" /> </p>
 
