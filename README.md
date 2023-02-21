@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm MizutoCode</h1>
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=mizutocode&label=Profile%20views&color=0e75b6&style=flat" alt="mizutocode" /> 
-  <img alt="Code Time" src="https://img.shields.io/endpoint?style=flat&url=https://codetime-api.datreks.com/badge/90?logoColor=white%26project=%26recentMS=0%26showProject=true" />
+  <img src="https://komarev.com/ghpvc/?username=mizutocode&label=Profile%20views&color=0e75b6&style=flat" alt="mizutocode" />
 </p>
 
 <p align="left"> 
